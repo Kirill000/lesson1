@@ -1,4 +1,4 @@
-file = open('freqs.txt', 'r')
+file = open('media/freqs.txt', 'r')
 thresh = float(input())
 ans = ""
 for line in file:
